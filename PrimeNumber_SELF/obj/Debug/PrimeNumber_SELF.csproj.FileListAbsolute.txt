@@ -1,0 +1,15 @@
+D:\C# Projects\SELF Codes\PrimeNumber_SELF\PrimeNumber_SELF\bin\Debug\PrimeNumber_SELF.exe.config
+D:\C# Projects\SELF Codes\PrimeNumber_SELF\PrimeNumber_SELF\bin\Debug\PrimeNumber_SELF.exe
+D:\C# Projects\SELF Codes\PrimeNumber_SELF\PrimeNumber_SELF\bin\Debug\PrimeNumber_SELF.pdb
+D:\C# Projects\SELF Codes\PrimeNumber_SELF\PrimeNumber_SELF\obj\Debug\PrimeNumber_SELF.csproj.AssemblyReference.cache
+D:\C# Projects\SELF Codes\PrimeNumber_SELF\PrimeNumber_SELF\obj\Debug\PrimeNumber_SELF.csproj.SuggestedBindingRedirects.cache
+D:\C# Projects\SELF Codes\PrimeNumber_SELF\PrimeNumber_SELF\obj\Debug\PrimeNumber_SELF.csproj.CoreCompileInputs.cache
+D:\C# Projects\SELF Codes\PrimeNumber_SELF\PrimeNumber_SELF\obj\Debug\PrimeNumber_SELF.exe
+D:\C# Projects\SELF Codes\PrimeNumber_SELF\PrimeNumber_SELF\obj\Debug\PrimeNumber_SELF.pdb
+E:\C# Projects\SELF Codes\PrimeNumber_SELF\PrimeNumber_SELF\obj\Debug\PrimeNumber_SELF.csproj.AssemblyReference.cache
+E:\C# Projects\SELF Codes\PrimeNumber_SELF\PrimeNumber_SELF\obj\Debug\PrimeNumber_SELF.csproj.CoreCompileInputs.cache
+E:\C# Projects\SELF Codes\PrimeNumber_SELF\PrimeNumber_SELF\obj\Debug\PrimeNumber_SELF.exe
+E:\C# Projects\SELF Codes\PrimeNumber_SELF\PrimeNumber_SELF\obj\Debug\PrimeNumber_SELF.pdb
+E:\C# Projects\SELF Codes\PrimeNumber_SELF\PrimeNumber_SELF\bin\Debug\PrimeNumber_SELF.exe.config
+E:\C# Projects\SELF Codes\PrimeNumber_SELF\PrimeNumber_SELF\bin\Debug\PrimeNumber_SELF.exe
+E:\C# Projects\SELF Codes\PrimeNumber_SELF\PrimeNumber_SELF\bin\Debug\PrimeNumber_SELF.pdb
